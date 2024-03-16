@@ -18,7 +18,7 @@ float min_i = 0;
 float max_i = 0.5;
 
 float kp_v = 0.5;
-float Ti_v = 100;
+float Ti_v = 100/0.5;
 float min_v = 0;
 float max_v = 1;
 
